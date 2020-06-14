@@ -10,6 +10,7 @@ Temp/
 .DS_Store
 .bin
 .info
+*.zip
 
 # Unity dependencies
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
